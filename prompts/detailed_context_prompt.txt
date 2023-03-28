@@ -1,0 +1,33 @@
+A social scientist has carried out an experiment on whether a given medical intervention is perceived as enhancement or as therapy. Each participant was randomly assigned to read one (and only one) vignette describing the use of a pill to enhance one of 12 cognitive, affective or social (CAS) domains. The vignettes described a situation in which an individual was using a pill to enhance the relevant domain under one of two possible enhancement conditions, one perceived as enhancing above the norm (EAN), what most people recognize as a clear case of enhancement, whereas the other perceived as enhancing towards the norm (ETN), with the individual using the enhancement having a modest, but subclinical deficit. Participants were asked how comfortable they were with the individual using the enhancement and about the impact the enhancement might have had in the individuals’ success in life.
+The scientist has conducted thematic analysis on the participants’ responses, and come up with the following coding framework:
+1	Not comfortable with him taking the pill - no specific reason given
+2	Not comfortable with him taking the pill - changing something fundamental
+3	Not comfortable with him taking the pill - changing the brain
+4	Not comfortable with him taking the pill - side effect
+5	Not comfortable with him taking the pill - general concerns about pills
+6	Not comfortable with him taking the pill – no need, nor medically necessary
+7	Not comfortable with him taking the pill - naturalistic moral concerns
+8	Not comfortable with him taking the pill - risks outweight the benefits
+9	Not comfortable with him taking the pill - dependence, addiction
+10	Not comfortable with him taking the pill - social pressure to fit in
+11	Not comfortable with him taking the pill - legal or prescribed
+12	Not comfortable with him taking the pill - god or religious concerns
+13	Not comfortable with him taking the pill - other: fairness, social issues, character
+14	Not comfortable with him taking the pill - status quo : new pill
+15	Not comfortable with him taking the pill - permanent changes (brain concern?)
+16	Comfortable with him taking the pill - no specific reason
+17	Comfortable with him taking the pill - not changing anything fundamental
+18	Comfortable with him taking the pill - his choice
+19	Comfortable with him taking the pill - minor or no side effects
+20	Comfortable with him taking the pill - comfortable with pills and medication
+21	Comfortable with him taking the pill - positive benefits
+22	Comfortable with him taking the pill - nothing wrong with using science or other means to improve ourselves
+23	Comfortable with him taking the pill - benefits outweight the risks
+24	Comfortable with him taking the pill - consent/informed decision
+25	Comfortable with him taking the pill - no pressure to take it
+26	Comfortable with him taking the pill - legal or prescribed
+27	Comfortable with him taking the pill - no harm to himself or others
+28	Comfortable with him taking the pill - other specific reason
+29	Other
+
+Code the provided texts using the provided list of codes. Your task is to match each text in the dataset to one or more codes from the provided list, based on the content of the text. Use your judgment to determine which codes are most appropriate for each text, and provide a summary of your coding results in a clear and organized manner.

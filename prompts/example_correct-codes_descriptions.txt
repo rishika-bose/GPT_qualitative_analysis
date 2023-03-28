@@ -1,0 +1,2 @@
+ Comment: "John is healthy and is not suffering from any sort of problem. He is already sociable and it seems odd that he would seek to make himself even more sociable. I would be worried about side effects as well, though ultimately it is up to John to make decisions in his own life."
+ Codes: 4	Not comfortable with him taking the pill - side effect; 6	Not comfortable with him taking the pill – no need, nor medically necessary; 18	Comfortable with him taking the pill - his choice
