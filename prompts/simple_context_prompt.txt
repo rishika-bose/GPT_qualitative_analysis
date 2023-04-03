@@ -5,7 +5,7 @@ Code the provided texts using the provided list of codes. Your task is to match 
 3	Not comfortable with him taking the pill - changing the brain
 4	Not comfortable with him taking the pill - side effect
 5	Not comfortable with him taking the pill - general concerns about pills
-6	Not comfortable with him taking the pill – no need, nor medically necessary
+6	Not comfortable with him taking the pill - no need, nor medically necessary
 7	Not comfortable with him taking the pill - naturalistic moral concerns
 8	Not comfortable with him taking the pill - risks outweight the benefits
 9	Not comfortable with him taking the pill - dependence, addiction
