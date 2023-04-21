@@ -1,4 +1,4 @@
-#  Qualitative Analysis with GPT-3 and -4
+#  Qualitative Coding with GPT-3 and -4
 
 Qualitative analysis of text data, such as from interviews or surveys, requires the analyst to go through the texts, find recurring themes, and match each text to the themes (or ‘codes’) one-by-one [1]. Automating this last step could save researchers significant resources. Large language models such as GPT-3 have allowed the automation of many tasks previously dependent on humans, such as chatting with customers, building web applications, and summarising complex text [2-4]; it may be worth investigating whether they could also be used to automate qualitative coding.
 
