@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Bose"
+  given-names: "Rishika"
+  orcid: "https://orcid.org/0000-0002-3920-3054"
+title: "GPT_qualitative_analysis"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2023-04-21
+url: "https://github.com/rishika-bose/GPT_qualitative_analysis"
